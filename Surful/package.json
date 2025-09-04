@@ -1,0 +1,14 @@
+{
+  "name": "@nebulaai/surful",
+  "version": "0.0.1",
+  "description": "A simple utility that returns a surful greeting.",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": { "access": "public" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nebulaaitech/nebulaai.git",
+    "directory": "packages/surful"
+  },
+  "keywords": ["surful", "nebulaai", "utility"]
+}
